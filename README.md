@@ -1,4 +1,4 @@
-# MyHotelBookingSite
+# My Hotel Booking Site
 <div> A simple HTML form created in HTML and CSS </div>
 Site includes working inputs.  
 <div>NOTE: There is a reset button that I've created in case you want to reset form inputs</div>
