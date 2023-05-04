@@ -4,7 +4,9 @@ Site includes working inputs.
 <div>NOTE: There is a reset button that I've added in case you want to reset form inputs</div>
 <br>
 Click <a href="https://ajproanimator.github.io/MyHotelBookingSite">HERE </a>
-<img= src"booking shot.png">
+
+[Preview] booking shot.png)
+
 <h2>Summary</h2>
 <p>This is my first HTML Form website completely done in HTML and CSS.</p>
 
