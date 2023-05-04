@@ -3,7 +3,7 @@
 Site includes working inputs.  
 <div>NOTE: There is a reset button that I've created in case you want to reset form input</div>
 <br>
-Click <a href="[https://ajproanimator.github.io/MyHotelBookingSite/](https://github.com/ajproanimator/MyHotelBookingSite.git)">HERE </a>
+Click <a href="https://ajproanimator.github.io/MyHotelBookingSite">HERE </a>
 
 <h2>Summary</h2>
 <p>This is my first HTML Form website completely done in HTML and CSS.</p>
