@@ -1,7 +1,7 @@
 # MyHotelBookingSite
 <div> A simple HTML form created in HTML and CSS </div>
 Site includes working inputs.  
-<div>NOTE: There is a reset button that I've created in case you want to reset form input</div>
+<div>NOTE: There is a reset button that I've created in case you want to reset form inputs</div>
 <br>
 Click <a href="https://ajproanimator.github.io/MyHotelBookingSite">HERE </a>
 
