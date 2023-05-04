@@ -11,6 +11,4 @@ Click <a href="https://ajproanimator.github.io/MyHotelBookingSite">HERE </a>
 <h2>Author</h2>
 <p>Alan J</p>
 
-[Social]
-www.linkedin.com/in/
-alan-joseph-bsn-rn-42411116
+www.linkedin.com/in/alan-joseph-RNSD
