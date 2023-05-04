@@ -8,7 +8,7 @@ Click <a href="https://ajproanimator.github.io/MyHotelBookingSite">HERE </a>
 <img src="booking shot.png" width="350" title="Booking site">
 
 <h2>Summary</h2>
-<p>This is my first HTML Form website completely done in HTML and CSS.</p>
+<p>This is my first HTML Form website completely done in HTML and CSS. Ran into issues using Flexbox</p>
 
 <h2>Author</h2>
 <p>Alan J</p>
