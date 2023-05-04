@@ -5,18 +5,6 @@ Site includes working inputs.
 <br>
 Click <a href="[https://ajproanimator.github.io/MyHotelBookingSite/](https://github.com/ajproanimator/MyHotelBookingSite.git)">HERE </a>
 
-<br>
-
-<br>
-
-<br>
-*Insert Preview Image Here*
-
-<br>
-
-<br>
-<br>
-
 <h2>Summary</h2>
 <p>This is my first HTML Form website completely done in HTML and CSS.</p>
 
